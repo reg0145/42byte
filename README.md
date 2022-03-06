@@ -1,2 +1,2 @@
 # Blind42
-![header](https://capsule-render.vercel.app/api?type=slice)
+<div align=center><img src="https://capsule-render.vercel.app/api?type=slice"></div>
