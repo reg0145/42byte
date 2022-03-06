@@ -18,3 +18,5 @@
   <img src="https://img.shields.io/badge/figma-e05b33?style=for-the-badge&logo=figma&logoColor=white">
   <br>
 </div>
+
+<div align=center><img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=3&reversal=true" width=2000></div>
