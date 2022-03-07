@@ -5,6 +5,8 @@
 
 <div align=center>
 <!-- Title -->
+  <p>🔭간단한 소개글</p>
+  <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
 <!-- Content -->
   
 <!-- Tech Stack -->
